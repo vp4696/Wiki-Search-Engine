@@ -1,0 +1,5 @@
+Stats for 42.6GB wikidump (approx):
+
+Index size : 8-8.5GB
+number of files in which inverted_index is split : 40-50
+number of tokens in inverted_index : 500000
