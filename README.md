@@ -2,7 +2,7 @@
 
 The mini project involves building a search engine on the Wikipedia Data Dump without using any external index. For this project, we use the data dump of size ~40 GB. The search results return in real time. Multi-word and multi-field search on Wikipedia Corpus is implemented.
 
-Here we will rank the documents and display the top k relevant documents. 
+Here we will rank the documents and display the top k relevant documents. Relevance ranking algorithm is implemented using TF-IDF score to rank documents.
 
 
 ### Prerequisites:
