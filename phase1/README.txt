@@ -6,7 +6,7 @@ In order to run:
 bash current_folder/index.sh xml_file_name current_folder/inverted_index current_folder/invertedindex_stat.txt
 
 where,
-abc.xml-p1p30303 ---------------------> wikipedia dump file
+xml_file_name ---------------------> wikipedia dump file
 current_folder/inverted_index ------------> folder where inverted index file will be stored
 current_folder/invertedindex_stat.txt ----> inverted index stat file
 
