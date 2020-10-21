@@ -12,4 +12,4 @@ for i in "${args[@]}"; do
 	fi
 done
 
-python3 2019201044/wiki_search.py $filepath $query
+python3 current_folder/wiki_search.py $filepath $query
